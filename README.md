@@ -16,4 +16,4 @@
 
 ## Contact
 
-* LinkedIn: in/markandreydelacruz
+* LinkedIn: [in/markandreydelacruz](https://www.linkedin.com/in/markandreydelacruz/)
