@@ -16,5 +16,4 @@
 
 ## Contact
 
-* Email: [contact@markandrey.com](contact@markandrey.com)
 * LinkedIn: [in/markandreydelacruz](https://www.linkedin.com/in/markandreydelacruz/)
