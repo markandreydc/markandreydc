@@ -1,19 +1,26 @@
-# Hi, I'm Mark Andrey
+# Hi, I'm Mark Andrey 👋
 
-💻 Software Engineer
-📍 Philippines
+💻 Software Engineer from the Philippines 🇵🇭
 
 ---
 
 ## Tech Stack
 
-* C#, .NET, ASP.NET Web API
-* Node.js, Express
-* React, TypeScript
-* Azure
+### Backend
+- C# / .NET
+- ASP.NET Web API
+
+### Frontend
+- React
+- TypeScript
+
+### Other
+- Node.js / Express
+- Azure
 
 ---
 
-## Contact
+## Connect With Me
 
-* LinkedIn: [in/markandreydelacruz](https://www.linkedin.com/in/markandreydelacruz/)
+- 🌐 [Website](https://andreycruz16.github.io)
+- [LinkedIn](https://www.linkedin.com/in/markandreydelacruz/) — in/markandreydelacruz
