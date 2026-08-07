@@ -1,6 +1,6 @@
-# Hi, I'm Mark Andrey 👋
+## Hi, I'm Mark Andrey
 
-💻 Software Engineer from the Philippines 🇵🇭
+💻 Software Engineer
 
 ---
 
