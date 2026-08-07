@@ -22,5 +22,6 @@
 
 ## Connect With Me
 
-- 🌐 [Website](https://andreycruz16.github.io)
+- [Personal Website](https://markandrey.com) - markandrey.com
 - [LinkedIn](https://www.linkedin.com/in/markandreydelacruz/) — in/markandreydelacruz
+- [GitHub](https://github.com/markandreydc/) - github.com/markandreydc
