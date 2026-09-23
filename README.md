@@ -1,27 +1,15 @@
-## Hi, I'm Mark Andrey
-
 💻 Software Engineer
 
----
+### Tech Stack
 
-## Tech Stack
+* C# / .NET
+* ASP.NET Core
+* React
+* TypeScript
+* Microsoft Azure
 
-### Backend
-- C# / .NET
-- ASP.NET Web API
+### Connect
 
-### Frontend
-- React
-- TypeScript
-
-### Other
-- Node.js / Express
-- Azure
-
----
-
-## Connect With Me
-
-- [Personal Website](https://markandrey.com) - markandrey.com
-- [LinkedIn](https://www.linkedin.com/in/markandreydelacruz/) — in/markandreydelacruz
-- [GitHub](https://github.com/markandreydc/) - github.com/markandreydc
+* [Website](https://markandrey.com)
+* [LinkedIn](https://www.linkedin.com/in/markandreydelacruz/)
+* [GitHub](https://github.com/markandreydc/)
